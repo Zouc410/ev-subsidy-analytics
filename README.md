@@ -251,17 +251,6 @@ analytics = response.json()
 - [ ] Docker containerization
 - [ ] CI/CD pipeline with GitHub Actions
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
-## 👤 Author
-
-**Charlotte**
-- MIT MBAn Candidate
-- Former Data Analyst Intern @ JD.com
-- [LinkedIn](https://linkedin.com/in/charlotte)
-- [GitHub](https://github.com/charlotte)
 
 ---
 
