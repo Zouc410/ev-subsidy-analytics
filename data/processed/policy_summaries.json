@@ -1,0 +1,217 @@
+[
+  {
+    "state": "Arizona",
+    "region": "West",
+    "rebate_usd": 1412,
+    "rebate_tier": "low",
+    "summary": "Arizona offers a limited EV incentive of $1,412. There are no income restrictions for this program.  The state's 6.0% adoption rate suggests room for growth in the EV market.",
+    "key_insights": [
+      "Significant estimated annual impact ($61.9M)"
+    ],
+    "regional_comparison": "West Coast states typically offer the highest incentives. This state offers a moderate incentive."
+  },
+  {
+    "state": "California",
+    "region": "West",
+    "rebate_usd": 7683,
+    "rebate_tier": "high",
+    "summary": "California offers one of the nation's most generous EV incentives with up to $7,683 available. Income eligibility is capped at $150,000.0 for individuals.  The state's 18.0% EV adoption rate reflects strong consumer interest in electric vehicles.",
+    "key_insights": [
+      "Above-average incentive compared to national benchmarks",
+      "High EV adoption rate (18.0%) indicates strong market",
+      "Income-restricted program targets middle-income consumers",
+      "Significant estimated annual impact ($5462.6M)"
+    ],
+    "regional_comparison": "West Coast states typically offer the highest incentives. This state is among the regional leaders."
+  },
+  {
+    "state": "Colorado",
+    "region": "West",
+    "rebate_usd": 5523,
+    "rebate_tier": "high",
+    "summary": "Colorado offers one of the nation's most generous EV incentives with up to $5,523 available. There are no income restrictions for this program.  The state's 12.0% EV adoption rate reflects strong consumer interest in electric vehicles.",
+    "key_insights": [
+      "Above-average incentive compared to national benchmarks",
+      "High EV adoption rate (12.0%) indicates strong market",
+      "Significant estimated annual impact ($384.4M)"
+    ],
+    "regional_comparison": "West Coast states typically offer the highest incentives. This state is among the regional leaders."
+  },
+  {
+    "state": "Connecticut",
+    "region": "Northeast",
+    "rebate_usd": 2639,
+    "rebate_tier": "medium",
+    "summary": "Connecticut provides a moderate EV incentive of $2,639 through its direct rebate program. There are no income restrictions for this program.  With 3.6M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Significant estimated annual impact ($66.5M)"
+    ],
+    "regional_comparison": "Northeastern states show moderate to high incentive levels. This state offers a moderate incentive."
+  },
+  {
+    "state": "Florida",
+    "region": "South",
+    "rebate_usd": 0,
+    "rebate_tier": "none",
+    "summary": "Florida currently does not offer a state-level EV purchase incentive. Residents may still qualify for federal tax credits. The state has 21.8M residents with a 4.0% EV adoption rate.",
+    "key_insights": [
+      "No state-level incentive available",
+      "Below-average adoption rate (4.0%) shows growth potential"
+    ],
+    "regional_comparison": "Southern states generally have lower state-level incentives. This state currently lacks a state incentive."
+  },
+  {
+    "state": "Georgia",
+    "region": "South",
+    "rebate_usd": 0,
+    "rebate_tier": "none",
+    "summary": "Georgia currently does not offer a state-level EV purchase incentive. Residents may still qualify for federal tax credits. The state has 10.7M residents with a 3.0% EV adoption rate.",
+    "key_insights": [
+      "No state-level incentive available",
+      "Below-average adoption rate (3.0%) shows growth potential"
+    ],
+    "regional_comparison": "Southern states generally have lower state-level incentives. This state currently lacks a state incentive."
+  },
+  {
+    "state": "Illinois",
+    "region": "Midwest",
+    "rebate_usd": 3283,
+    "rebate_tier": "medium",
+    "summary": "Illinois provides a moderate EV incentive of $3,283 through its direct rebate program. There are no income restrictions for this program.  With 12.8M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Significant estimated annual impact ($210.1M)"
+    ],
+    "regional_comparison": "Midwestern states show varied incentive approaches. This state offers a moderate incentive."
+  },
+  {
+    "state": "Maryland",
+    "region": "South",
+    "rebate_usd": 3018,
+    "rebate_tier": "medium",
+    "summary": "Maryland provides a moderate EV incentive of $3,018 through its tax credit program. There are no income restrictions for this program.  With 6.2M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Significant estimated annual impact ($112.3M)"
+    ],
+    "regional_comparison": "Southern states generally have lower state-level incentives. This state offers a moderate incentive."
+  },
+  {
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "rebate_usd": 2937,
+    "rebate_tier": "medium",
+    "summary": "Massachusetts provides a moderate EV incentive of $2,937 through its direct rebate program. There are no income restrictions for this program.  With 7.0M residents, the program has significant potential reach.",
+    "key_insights": [
+      "High EV adoption rate (11.0%) indicates strong market",
+      "Significant estimated annual impact ($226.2M)"
+    ],
+    "regional_comparison": "Northeastern states show moderate to high incentive levels. This state offers a moderate incentive."
+  },
+  {
+    "state": "Michigan",
+    "region": "Midwest",
+    "rebate_usd": 1794,
+    "rebate_tier": "low",
+    "summary": "Michigan offers a limited EV incentive of $1,794. There are no income restrictions for this program.  The state's 4.0% adoption rate suggests room for growth in the EV market.",
+    "key_insights": [
+      "Below-average adoption rate (4.0%) shows growth potential",
+      "Significant estimated annual impact ($71.8M)"
+    ],
+    "regional_comparison": "Midwestern states show varied incentive approaches. This state offers a moderate incentive."
+  },
+  {
+    "state": "Nevada",
+    "region": "West",
+    "rebate_usd": 2080,
+    "rebate_tier": "medium",
+    "summary": "Nevada provides a moderate EV incentive of $2,080 through its direct rebate program. There are no income restrictions for this program.  With 3.1M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Significant estimated annual impact ($51.6M)"
+    ],
+    "regional_comparison": "West Coast states typically offer the highest incentives. This state offers a moderate incentive."
+  },
+  {
+    "state": "New Jersey",
+    "region": "Northeast",
+    "rebate_usd": 4575,
+    "rebate_tier": "medium",
+    "summary": "New Jersey provides a moderate EV incentive of $4,575 through its direct rebate program. There are no income restrictions for this program.  With 9.3M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Significant estimated annual impact ($382.9M)"
+    ],
+    "regional_comparison": "Northeastern states show moderate to high incentive levels. This state offers a moderate incentive."
+  },
+  {
+    "state": "New York",
+    "region": "Northeast",
+    "rebate_usd": 2061,
+    "rebate_tier": "medium",
+    "summary": "New York provides a moderate EV incentive of $2,061 through its direct rebate program. Income eligibility is capped at $250,000.0 for individuals.  With 19.8M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Income-restricted program targets middle-income consumers",
+      "Significant estimated annual impact ($326.5M)"
+    ],
+    "regional_comparison": "Northeastern states show moderate to high incentive levels. This state offers a moderate incentive."
+  },
+  {
+    "state": "Oregon",
+    "region": "West",
+    "rebate_usd": 6397,
+    "rebate_tier": "high",
+    "summary": "Oregon offers one of the nation's most generous EV incentives with up to $6,397 available. There are no income restrictions for this program.  The state's 14.0% EV adoption rate reflects strong consumer interest in electric vehicles.",
+    "key_insights": [
+      "Above-average incentive compared to national benchmarks",
+      "High EV adoption rate (14.0%) indicates strong market",
+      "Significant estimated annual impact ($376.1M)"
+    ],
+    "regional_comparison": "West Coast states typically offer the highest incentives. This state is among the regional leaders."
+  },
+  {
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "rebate_usd": 3232,
+    "rebate_tier": "medium",
+    "summary": "Pennsylvania provides a moderate EV incentive of $3,232 through its direct rebate program. Income eligibility is capped at $200,000.0 for individuals.  With 13.0M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Below-average adoption rate (4.0%) shows growth potential",
+      "Income-restricted program targets middle-income consumers",
+      "Significant estimated annual impact ($168.1M)"
+    ],
+    "regional_comparison": "Northeastern states show moderate to high incentive levels. This state offers a moderate incentive."
+  },
+  {
+    "state": "Texas",
+    "region": "South",
+    "rebate_usd": 2584,
+    "rebate_tier": "medium",
+    "summary": "Texas provides a moderate EV incentive of $2,584 through its direct rebate program. There are no income restrictions for this program.  With 29.1M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Significant estimated annual impact ($376.0M)"
+    ],
+    "regional_comparison": "Southern states generally have lower state-level incentives. This state offers a moderate incentive."
+  },
+  {
+    "state": "Vermont",
+    "region": "Northeast",
+    "rebate_usd": 3753,
+    "rebate_tier": "medium",
+    "summary": "Vermont provides a moderate EV incentive of $3,753 through its direct rebate program. Income eligibility is capped at $100,000.0 for individuals.  With 0.6M residents, the program has significant potential reach.",
+    "key_insights": [
+      "Income-restricted program targets middle-income consumers",
+      "Significant estimated annual impact ($22.5M)"
+    ],
+    "regional_comparison": "Northeastern states show moderate to high incentive levels. This state offers a moderate incentive."
+  },
+  {
+    "state": "Washington",
+    "region": "West",
+    "rebate_usd": 6108,
+    "rebate_tier": "high",
+    "summary": "Washington offers one of the nation's most generous EV incentives with up to $6,108 available. There are no income restrictions for this program.  The state's 13.0% EV adoption rate reflects strong consumer interest in electric vehicles.",
+    "key_insights": [
+      "Above-average incentive compared to national benchmarks",
+      "High EV adoption rate (13.0%) indicates strong market",
+      "Significant estimated annual impact ($611.4M)"
+    ],
+    "regional_comparison": "West Coast states typically offer the highest incentives. This state is among the regional leaders."
+  }
+]

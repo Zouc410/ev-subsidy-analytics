@@ -1,0 +1,19 @@
+state,region,rebate_usd,rebate_tier,income_cap_usd,has_income_cap,policy_type,vehicle_type,eligibility,effective_date,ev_adoption_rate,population_millions,est_annual_impact_millions,data_source,version,processed_at
+Arizona,West,1412,low,,False,tax_credit,plug_in_hybrid,New vehicle purchase only,2022-01-27,0.06,7.3,61.85,energy_office,4,2026-01-31 11:14:56.168907
+California,West,7683,high,150000.0,True,rebate,fuel_cell,Standard eligibility,2020-07-26,0.18,39.5,5462.61,energy_office,2,2026-01-31 11:14:56.168907
+Colorado,West,5523,high,,False,tax_credit,all_electric_vehicles,Primary residence requirement,2022-05-22,0.12,5.8,384.4,press_release,3,2026-01-31 11:14:56.168907
+Connecticut,Northeast,2639,medium,,False,rebate,all_electric_vehicles,Must be registered in state for 2+ years,2021-08-10,0.07,3.6,66.5,legislative_record,3,2026-01-31 11:14:56.168907
+Florida,South,0,none,,False,none,all_electric_vehicles,First-time EV buyer priority,2024-05-04,0.04,21.8,0.0,third_party_aggregator,5,2026-01-31 11:14:56.168907
+Georgia,South,0,none,,False,none,all_electric_vehicles,Standard eligibility,2024-12-18,0.03,10.7,0.0,state_dmv_website,5,2026-01-31 11:14:56.168907
+Illinois,Midwest,3283,medium,,False,rebate,plug_in_hybrid,Standard eligibility,2024-12-29,0.05,12.8,210.11,state_dmv_website,5,2026-01-31 11:14:56.168907
+Maryland,South,3018,medium,,False,tax_credit,plug_in_hybrid,New or used vehicles,2022-04-10,0.06,6.2,112.27,state_dmv_website,4,2026-01-31 11:14:56.168907
+Massachusetts,Northeast,2937,medium,,False,rebate,plug_in_hybrid,New vehicle purchase only,2022-07-12,0.11,7.0,226.15,energy_office,3,2026-01-31 11:14:56.168907
+Michigan,Midwest,1794,low,,False,rebate,all_electric_vehicles,Standard eligibility,2022-09-29,0.04,10.0,71.76,legislative_record,3,2026-01-31 11:14:56.168907
+Nevada,West,2080,medium,,False,rebate,all_electric_vehicles,Standard eligibility,2022-03-19,0.08,3.1,51.58,press_release,3,2026-01-31 11:14:56.168907
+New Jersey,Northeast,4575,medium,,False,rebate,all_electric_vehicles,Standard eligibility,2022-02-23,0.09,9.3,382.93,press_release,5,2026-01-31 11:14:56.168907
+New York,Northeast,2061,medium,250000.0,True,rebate,battery_electric,Standard eligibility,2021-07-04,0.08,19.8,326.46,legislative_record,2,2026-01-31 11:14:56.168907
+Oregon,West,6397,high,,False,rebate,plug_in_hybrid,Primary residence requirement,2023-06-17,0.14,4.2,376.14,press_release,5,2026-01-31 11:14:56.168907
+Pennsylvania,Northeast,3232,medium,200000.0,True,rebate,plug_in_hybrid,Must be registered in state for 2+ years,2024-02-13,0.04,13.0,168.06,press_release,5,2026-01-31 11:14:56.168907
+Texas,South,2584,medium,,False,rebate,plug_in_hybrid,New vehicle purchase only,2023-07-28,0.05,29.1,375.97,state_dmv_website,4,2026-01-31 11:14:56.168907
+Vermont,Northeast,3753,medium,100000.0,True,rebate,all_electric_vehicles,Standard eligibility,2021-09-16,0.1,0.6,22.52,press_release,2,2026-01-31 11:14:56.168907
+Washington,West,6108,high,,False,sales_tax_exemption,all_electric_vehicles,Standard eligibility,2023-01-03,0.13,7.7,611.41,state_dmv_website,4,2026-01-31 11:14:56.168907

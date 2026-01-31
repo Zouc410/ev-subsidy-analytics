@@ -1,0 +1,8 @@
+{
+  "records_processed": 67,
+  "records_normalized": 18,
+  "parse_errors": 0,
+  "missing_values_filled": 0,
+  "duplicates_removed": 49,
+  "processing_time_ms": 6
+}
